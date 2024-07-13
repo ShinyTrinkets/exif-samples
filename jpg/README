@@ -4,7 +4,7 @@
 Unless stated otherwise, all images come from Wikipedia Commons - http://commons.wikimedia.org
 For author and license information please refer to their respective description pages.
 
-All images were scaled down using the GIMP v 2.4.5 since all we care about is the Exif info.
+All images were scaled down using GIMP, since all we care about is the Exif info.
 Tested before and after scaling to ensure Exif data was not modified (except for 'software' field).
 
 
@@ -32,10 +32,6 @@ WWL_(Polaroid)_ION230.jpg           PoudriereBoisSousRoche3.jpg
 long_description.jpg                US_10th_Mountain_Division_soldiers_in_Afghanistan.jpg
 
 
-
 Contributions :
 
 PaintTool_sample.jpg -- Submitted by Jan Trofimov (OXIj)
-
-
-
